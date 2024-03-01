@@ -1,6 +1,6 @@
 # VeraDemo.NET - Blab-a-Gag
 
-## About
+## About VeraDemo.Net
 
 Blab-a-Gag is a fairly simple forum type application which allows:
 * Users can post a one-liner joke.
